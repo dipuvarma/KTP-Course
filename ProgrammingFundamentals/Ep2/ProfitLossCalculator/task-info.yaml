@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 128
-        length: 6
+        length: 28
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,8 +12,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: A94HHC5GufoqLSYznhOXBnqm4o+12SG9ClTy2QNY3jU=
         selected: true
-        status: Unchecked
-      - offset: 241
+        status: Solved
+      - offset: 263
         length: 28
         placeholder_text: return sp * 100 / (100 + pl)
         initial_state:
@@ -22,40 +22,43 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: PLSlppYtZZWm4Jl/757a5CBpqGzjT1nNOhdbgf9s3DCCGY2tt3dZToE76q0pXMb5
         selected: true
-        status: Unchecked
-      - offset: 376
-        length: 27
+        status: Solved
+      - offset: 398
+        length: 52
         placeholder_text: return (sp - cp) / cp * 100
         initial_state:
           length: 27
           offset: 376
         initialized_from_dependency: false
         encrypted_possible_answer: chiuu/k00OrrrjhdFRWEIuiNlsStqftE9PvR3BV5LJqYLgigcK2AV2rGkO0MYZGZuwT52PQvOnzIBKhpVY8atw==
-        selected: false
-        status: Unchecked
-      - offset: 449
-        length: 23
+        selected: true
+        status: Solved
+      - offset: 496
+        length: 48
         placeholder_text: return absPL / cp * 100
         initial_state:
           length: 23
           offset: 449
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FChKPHcK+LDKc0uf4668bS7S8ZP0tELJFpMYhjks4uqpRyb7/P/PrV1+jqWGhhhLsjA==
-        selected: false
-        status: Unchecked
-      - offset: 518
-        length: 33
+        selected: true
+        status: Solved
+      - offset: 590
+        length: 58
         placeholder_text: return absPL / (sp - absPL) * 100
         initial_state:
           length: 33
           offset: 518
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FCtID3OnYZ/IG5DI5SeNqfyHTQO4YSF7Tvzzo7pz8t+T6mHsgtEIWEWNdYn1D86K7OQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Dec 2024 03:35:36 UTC"
 record: -1
