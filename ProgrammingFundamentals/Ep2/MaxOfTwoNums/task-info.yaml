@@ -4,18 +4,21 @@ files:
     visible: true
     placeholders:
       - offset: 87
-        length: 6
+        length: 62
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 87
         initialized_from_dependency: false
         encrypted_possible_answer: 5TOOM1OpXX/+xGRkWyVHZz/VgQ9LhQgu8FP2XEZfPACinNlrJHit/++z9IXW8JDrX5wh5ZKr5zJVJB8j3bjrg69P2KYP14nFBPDsLHn1RYo=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Dec 2024 03:24:24 UTC"
 record: -1
