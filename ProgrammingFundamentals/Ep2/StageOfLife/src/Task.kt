@@ -1,7 +1,7 @@
 import com.faangx.ktp.basics.StageOfLifeMiniApp
 
 fun stageOfLife(age: Int): String {
-    return when (age){
+    return when (age) {
         in 0..2 -> "Infancy"
         in 3..11 -> "Childhood"
         in 12..17 -> "Teenage"
