@@ -12,10 +12,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: XD6/cN/jAp2oALLsbdkzbGGGuaUyNYMhdRPMSEmLgiX4XRI5PEV1rNmZdA91DcoUR9XcxyuAo+PqqHMb+IhGPZ5NIz/snri1D8/wY5bx+Pw=
         selected: true
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Dec 2024 03:15:50 UTC"
 record: -1
