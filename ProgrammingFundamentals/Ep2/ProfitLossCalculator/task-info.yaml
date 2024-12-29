@@ -11,7 +11,7 @@ files:
           offset: 128
         initialized_from_dependency: false
         encrypted_possible_answer: A94HHC5GufoqLSYznhOXBnqm4o+12SG9ClTy2QNY3jU=
-        selected: false
+        selected: true
         status: Unchecked
       - offset: 241
         length: 28
@@ -21,7 +21,7 @@ files:
           offset: 241
         initialized_from_dependency: false
         encrypted_possible_answer: PLSlppYtZZWm4Jl/757a5CBpqGzjT1nNOhdbgf9s3DCCGY2tt3dZToE76q0pXMb5
-        selected: false
+        selected: true
         status: Unchecked
       - offset: 376
         length: 27

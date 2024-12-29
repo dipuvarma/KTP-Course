@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 89
-        length: 6
+        length: 16
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 89
         initialized_from_dependency: false
         encrypted_possible_answer: XD6/cN/jAp2oALLsbdkzbGGGuaUyNYMhdRPMSEmLgiX4XRI5PEV1rNmZdA91DcoUR9XcxyuAo+PqqHMb+IhGPZ5NIz/snri1D8/wY5bx+Pw=
-        selected: false
+        selected: true
         status: Unchecked
     learner_created: false
   - name: test/Tests.kt
